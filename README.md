@@ -13,4 +13,4 @@ Utilizei o "Microsoft Copilot" para criar um roteiro simples com 5 tópicos a re
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/akmazurok/lab-natty-or-not/blob/main/H%C3%A1bitos%20Saud%C3%A1veis.pdf)
